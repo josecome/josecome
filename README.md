@@ -1,6 +1,4 @@
-(2) Master in:
- •  Statistic
- •  Strategic Direction in Management in Software Engineering
+(2) Master in: Statistic and; Strategic Direction in Management in Software Engineering.
 In Data and Software development from 2013.
 My Top Skills: Python (Spark, Kafka, Flask, FastApi, Django, Django RestFramework), R, PHP (Laravel), MySQL, JavaScript(Vuejs), PowerBI and Ms Excel.
 
