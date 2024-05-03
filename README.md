@@ -1,4 +1,4 @@
-I hold (2) Master's degrees in: Statistic and; Strategic Direction in Management in Software Engineering.
+I hold (2) master's degrees in: Statistic and; Strategic Direction in Management in Software Engineering.
 In Data and Software development from 2013.
 My Top Skills: Python (Spark, Kafka, Flask, FastApi, Django, Django RestFramework), R, PHP (Laravel), MySQL, JavaScript(Vuejs), PowerBI and Ms Excel.
 
